@@ -1,0 +1,22 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.logo-image {
+  width: 55px;
+  margin-top: 3px;
+  margin-left: 35px;
+}
+
+.logo-image-footer {
+  width: 55px;
+  margin-top: 3px;
+  margin-left: 35px;
+}
+
+.logo-image:hover {
+  width: 58px;
+  margin-top: 4px;
+  margin-left: 31px;
+  transition: 0.5s;
+}
